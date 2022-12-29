@@ -1,0 +1,6 @@
+[DEFAULT]
+server = 'https://snipeit.yourdomain.net'
+token = 'YourToken'
+urlsheetx = 'yourgooglesheeturl'
+
+##sheet have 4 column firstname, lastname, email, username
